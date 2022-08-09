@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79004845191",
+    "project_id": "fir-victor-teste",
+    "storage_bucket": "fir-victor-teste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79004845191:android:edc8e0142119503c5ca422",
+        "android_client_info": {
+          "package_name": "br.com.firebase_proj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79004845191-mv2dahhbnqtm8c3l7ju56jnccsq0vbgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Tf6kMw_1SHSABWC0ePMU0YnFGQ8xvrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79004845191-mv2dahhbnqtm8c3l7ju56jnccsq0vbgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
